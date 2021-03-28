@@ -1,0 +1,1 @@
+# go-native-plugin-example
